@@ -1,0 +1,2 @@
+# AVR-Program-Counter-and-Instruction-Register-Implementation-in-VHDL
+Implementation and simulation of the program counter and the instruction register of the AVR microprocessor architecture. A selection is made of the whole instruction set sorted by operation code and classified in three groups (Branch, Load Store and Register-Register). The control unit and the data path for the PC and IR are designed, as well as a program memory to simulate the behavior of these modules before some preloaded instructions.
